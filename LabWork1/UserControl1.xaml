@@ -1,0 +1,31 @@
+﻿<UserControl x:Name="userControl" x:Class="LabWork1.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LabWork1"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="200">
+    <Grid x:Name="grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="29*"/>
+            <ColumnDefinition Width="130*"/>
+            <ColumnDefinition Width="18*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Height="21" Margin="3.2,28,0,0" TextWrapping="Wrap" Text="Enter Height in m. " VerticalAlignment="Top" Width="140" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <TextBox Height = "23"  HorizontalAlignment = "Left"  Margin = "3.2,50,0,0" x:Name = "heightTextBox"  VerticalAlignment = "Top" Width = "140" Grid.Column="1" Grid.ColumnSpan="2" />
+
+        <TextBlock HorizontalAlignment="Left" Height="21" Margin="3.2,80,0,0" TextWrapping="Wrap" Text="Enter Weight in kg. " VerticalAlignment="Top" Width="140" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <TextBox Height = "23"  HorizontalAlignment = "Left"  Margin = "3.2,102,0,0" x:Name = "weightTextBox"  VerticalAlignment = "Top" Width = "140" Grid.Column="1" Grid.ColumnSpan="2" />
+
+        <Button x:Name="calculate" Content="Calculate" HorizontalAlignment="Left" Height="46" Margin="3.2,147,0,0" VerticalAlignment="Top" Width="140" Grid.Column="1" Grid.ColumnSpan="2"/>
+
+        <TextBlock HorizontalAlignment="Left" Height="21" Margin="3.2,210,0,0" TextWrapping="Wrap" Text="Enter Weight in kg. " VerticalAlignment="Top" Width="140" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <TextBox Height = "23"  HorizontalAlignment = "Left"  Margin = "3.2,232,0,0" x:Name = "resultTextBox"  VerticalAlignment = "Top" Width = "140" Grid.Column="1" Grid.ColumnSpan="2" />
+        <Button x:Name="calculateButton" Content="Calculate" HorizontalAlignment="Left" Height="46" Margin="3.2,147,0,0" VerticalAlignment="Top" Width="140" Grid.Column="1" Click="calculateButton_Click" Grid.ColumnSpan="2"/>
+
+
+    </Grid>
+</UserControl>

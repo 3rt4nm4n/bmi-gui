@@ -1,0 +1,44 @@
+C:\Users\asus\source\repos\LabWork1\LabWork1\bin\Debug\LabWork1.exe.config
+C:\Users\asus\source\repos\LabWork1\LabWork1\bin\Debug\LabWork1.exe
+C:\Users\asus\source\repos\LabWork1\LabWork1\bin\Debug\LabWork1.pdb
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\MainWindow.g.cs
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\App.g.cs
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1_MarkupCompile.cache
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1_MarkupCompile.lref
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\MainWindow.baml
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1.g.resources
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1.Properties.Resources.resources
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1.exe
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\LabWork1.pdb
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\Window1.g.cs
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\Window2.g.cs
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\Window1.baml
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\Window2.baml
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\UserControl1.g.cs
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\UserControl1.baml
+C:\Users\asus\source\repos\LabWork1\LabWork1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\bin\Debug\LabWork1.exe.config
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\bin\Debug\LabWork1.exe
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\bin\Debug\LabWork1.pdb
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.AssemblyReference.cache
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\MainWindow.g.cs
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\UserControl1.g.cs
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\Window1.g.cs
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\Window2.g.cs
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\App.g.cs
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\LabWork1_MarkupCompile.cache
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\LabWork1_MarkupCompile.lref
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\MainWindow.baml
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\UserControl1.baml
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\Window1.baml
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\Window2.baml
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\LabWork1.g.resources
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\LabWork1.Properties.Resources.resources
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.GenerateResource.cache
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.CoreCompileInputs.cache
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\LabWork1.exe
+D:\ASUS\Masaüstü Ağu\LabWork1\LabWork1\obj\Debug\LabWork1.pdb
